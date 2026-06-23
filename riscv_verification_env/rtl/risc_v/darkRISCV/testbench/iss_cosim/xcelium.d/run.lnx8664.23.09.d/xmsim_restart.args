@@ -1,0 +1,27 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
++ISS_MEM=/project/kyron_dig/omerv/kyron_dig_MCU_ISS/riscv_verification_env/rtl/risc_v/darkRISCV/testbench/iss_cosim/../iss_phase0/phase0.mem
+-LICQUEUE
+-sv_lib
+/project/kyron_dig/omerv/kyron_dig_MCU_ISS/riscv_verification_env/rtl/risc_v/darkRISCV/testbench/iss_cosim/libiss_wrapper
+-MESSAGES
++EMGRLOG
+xrun.log
+-XLSTIME
+1782205089
+-XLKEEP
+-XLMODE
+./xcelium.d/run.lnx8664.23.09.d
+-RUNMODE
+-CDSLIB
+./xcelium.d/run.lnx8664.23.09.d/cds.lib
+-HDLVAR
+./xcelium.d/run.lnx8664.23.09.d/hdl.var
+-XLNAME
+xrun
+-XLVERSION
+"TOOL:	xrun(64)	23.09-s001"
+-XLNAME
+./xcelium.d/run.lnx8664.23.09.d/tri-xn122.lnx.trieye.tech_8ed29f2c-4d5e-4560-9db7-57e3ac2e03b7

@@ -1,0 +1,22 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
++ISS_MEM=/project/kyron_dig/omerv/kyron_dig_MCU_ISS/riscv_verification_env/rtl/risc_v/darkRISCV/testbench/iss_cosim/../iss_phase0/phase0.mem
+-LICQUEUE
+-timescale
+1ns/1ps
+-ACCESS
++r
+-no_analogsolver
+-MESSAGES
+-XLMODE
+./xcelium.d/run.lnx8664.23.09.d
+-RUNMODE
+-CDSLIB
+./xcelium.d/run.lnx8664.23.09.d/cds.lib
+-HDLVAR
+./xcelium.d/run.lnx8664.23.09.d/hdl.var
+-WORK
+worklib
+-HASXLMODE
